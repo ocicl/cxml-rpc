@@ -1,0 +1,10 @@
+* cxml-rpc
+
+XML-RPC for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/antifuchs/cxml-rpc.git   |
+| commit  | 3b5b265  |
+| systems | cxml-rpc |
+|---------+-------------------------------------------|
+
